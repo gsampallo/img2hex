@@ -28,4 +28,4 @@ Lo recomendable es que se utilice una sola fila, visualmente queda mejor. Si bie
 ## Ejemplo
 
 Dentro de la carpeta example hay varias imagenes que se utilizaron para construir la demo del pacman.
-![alt text](https://raw.githubusercontent.com/gsampallo/img2hex/master/dmeo.jpg "Demo")
+![alt text](https://raw.githubusercontent.com/gsampallo/img2hex/master/demo.jpg "Demo")
