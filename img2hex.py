@@ -89,7 +89,7 @@ def main(argv):
             f = f + 1
 
         c = c + 1
-    print "Se genero el archivo ",archivo
+    print ("Se genero el archivo "+archivo)
 
 if __name__ == "__main__":
     if(len(sys.argv[1:]) == 0):
